@@ -1,1 +1,2 @@
-Ez egy GitHub-on létrehozott állomány.
+﻿Ez egy GitHub-on létrehozott állomány.
+Ez pedig egy módosítás benne...
