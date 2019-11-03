@@ -1,2 +1,3 @@
-# TesztRepo
+﻿# TesztRepo
 Ez egy teszt repo, hogy minden simán megy.
+Ezt a sort hozzáírtam, hogy a helyi számítógépen is történt változás...
